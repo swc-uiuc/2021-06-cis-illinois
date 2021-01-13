@@ -9,14 +9,14 @@ country: "us"
 language: "en"
 latitude: "40.115"
 longitude: "-88.228"
-humandate: "November 2020"
+humandate: "February 1–4 2021"
 humantime: "4–6 p.m. CST"
-startdate: 2020-11-09
-enddate: 2020-11-19
-instructor: ["Lena Bohman", "Neal Davis", "Yuanxi Fu"]
-helper: ["Maxim Belkin", "Aria Novianto"]
+startdate: 2021-02-01
+enddate: 2021-02-04
+instructor: ["Neal Davis", "Dena Strong", "Elizabeth Wickes"]
+helper: [""]
 email: ["training@cse.illinois.edu"]
-collaborative_notes: "https://pad.carpentries.org/2020-11-nanomfg"
+collaborative_notes: "https://pad.carpentries.org/2021-02-illinois"
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
