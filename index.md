@@ -9,14 +9,14 @@ country: "us"
 language: "en"
 latitude: "40.115"
 longitude: "-88.228"
-humandate: "February 1–4 2021"
+humandate: "April 12–15 2021"
 humantime: "4–6 p.m. CST"
-startdate: 2021-02-01
-enddate: 2021-02-04
-instructor: ["Neal Davis", "Dena Strong", "Elizabeth Wickes"]
+startdate: 2021-04-12
+enddate: 2021-04-15
+instructor: ["Yuanxi Fu", "Elizabeth Wickes"]
 helper: [""]
 email: ["training@cse.illinois.edu"]
-collaborative_notes: "https://pad.carpentries.org/2021-02-illinois"
+collaborative_notes: "https://pad.carpentries.org/2021-04-illinois"
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
