@@ -3,20 +3,20 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "University of Illinois"
+venue: "Crops in Silico"
 address: "Online"
 country: "us"
 language: "en"
 latitude: "40.115"
 longitude: "-88.228"
-humandate: "April 12–15 2021"
-humantime: "4–6 p.m. CST"
-startdate: 2021-04-12
-enddate: 2021-04-15
-instructor: ["Yuanxi Fu", "Elizabeth Wickes"]
+humandate: "June 3–4 2021"
+humantime: "TBA"
+startdate: 2021-06-03
+enddate: 2021-06-04
+instructor: ["N E Davis"]
 helper: [""]
 email: ["training@cse.illinois.edu"]
-collaborative_notes: "https://pad.carpentries.org/2021-04-illinois"
+collaborative_notes: "https://pad.carpentries.org/2021-06-cis-illinois"
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
